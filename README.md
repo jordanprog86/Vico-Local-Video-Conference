@@ -32,7 +32,7 @@ Unlike traditional cloud-dependent streaming software (such as Zoom or Teams), V
 * **Auto-Reassembly & External Launch:** Seamlessly mirrors and rebuilds fragments in the host operating system's native Downloads directory. Features an HTML hypertext link layout system that launches received files externally using the OS default application (e.g., Adobe Acrobat, default image viewers).
 
 ### 5. Modern Chromeless Custom UI
-* **Custom Dark Theme Title Bar:** Strips away default native OS window frames (`Qt::FramelessWindowHint`) in favor of a sleek, custom-engineered dark title bar with manual mouse-coordinate drag tracking.
+* **Custom Dark Theme Title Bar:** Strips away default native OS window frames in favor of a sleek, custom-engineered dark title bar with manual mouse-coordinate drag tracking.
 * **Auto-Arranging Video Grid Layout:** Features a dynamic matrix math engine that scales and shifts participant viewports automatically with strict aspect-ratio constraints as students join or leave.
 * **Interactive Dashboard Widgets:** Built-in mute check box controllers, interactive "Raise Hand" neon orange highlight frame borders, and an auto-scrolling live text chat overlay panel.
 
