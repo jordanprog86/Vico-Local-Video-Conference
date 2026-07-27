@@ -10,7 +10,8 @@ Unlike traditional cloud-dependent streaming software (such as Zoom or Teams), V
 <img width="705" height="551" alt="Home" src="https://github.com/user-attachments/assets/25801686-7f95-42b6-ada0-a64595176268" />
 <img width="705" height="591" alt="create" src="https://github.com/user-attachments/assets/45a39810-1904-43c5-a527-330edd29403f" />
 <img width="636" height="703" alt="join2" src="https://github.com/user-attachments/assets/c597d622-e8e6-4df3-afc0-49cfd00c392d" />
-<img width="649" height="330" alt="Screenshot 2026-07-27 062559" src="https://github.com/user-attachments/assets/cb063202-54b0-4afc-9db9-4451f5163056" />
+<img width="1297" height="660" alt="demo" src="https://github.com/user-attachments/assets/5b4761fa-872f-4619-b648-cfd2531f15f6" />
+
 
 
 ## Key Features
