@@ -10,7 +10,7 @@ Unlike traditional cloud-dependent streaming software (such as Zoom or Teams), V
 <img width="870" height="670" alt="accueil" src="https://github.com/user-attachments/assets/ff53bb6e-5634-471c-802c-e3f21f69168e" />
 <img width="870" height="670" alt="create Meeting" src="https://github.com/user-attachments/assets/2c46a997-d5a8-4ab1-a120-b98116416baa" />
 <img width="870" height="670" alt="join" src="https://github.com/user-attachments/assets/06739aee-e3d6-456b-b003-9ab9ac8f816f" />
-
+<img width="649" height="330" alt="Screenshot 2026-07-27 062559" src="https://github.com/user-attachments/assets/cb063202-54b0-4afc-9db9-4451f5163056" />
 
 
 ## Key Features
@@ -35,13 +35,7 @@ Unlike traditional cloud-dependent streaming software (such as Zoom or Teams), V
 * **Custom Dark Theme Title Bar:** Strips away default native OS window frames in favor of a sleek, custom-engineered dark title bar with manual mouse-coordinate drag tracking.
 * **Auto-Arranging Video Grid Layout:** Features a dynamic matrix math engine that scales and shifts participant viewports automatically with strict aspect-ratio constraints as students join or leave.
 * **Interactive Dashboard Widgets:** Built-in mute check box controllers, interactive "Raise Hand" neon orange highlight frame borders, and an auto-scrolling live text chat overlay panel.
-
----
-
-##  Network Packet Mapping Layout
-
-Vico wraps all media and command data into a high-utility 9-byte binary protocol header, bypassing heavy serialization frameworks like `DataStream` to eliminate alignment padding and corruption across physical Wi-Fi routers
-
+  
 ##  Commercial Positioning & Use Cases
 
 Vico is uniquely positioned for **High-Security, Low-Connectivity, or Private Enterprise environments** where cloud connectivity is either restricted or unavailable.
@@ -49,7 +43,11 @@ Vico is uniquely positioned for **High-Security, Low-Connectivity, or Private En
 * **Air-Gapped & Corporate Environments:** Secure corporate boardrooms or government branches needing zero-data-leak virtual endpoints.
 * **Remote Educational Infrastructure:** Rural training facilities or private schools utilizing a single local Wi-Fi router to support classroom networks without paying for internet data.
 * **Maritime & Industrial Sites:** Internal team voice communications and document routing on remote marine vessels, mining tunnels, or offshore infrastructure hubs.
+## Contact
+Email:  rtechtrainingcenter@gmail.com
+## Download
+Download the  trial version here: 
+If you want the full version, contact us per email.
 
----
 License: Proprietary / Commercial Close-Source
 
