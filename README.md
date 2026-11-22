@@ -46,6 +46,10 @@ Vico is uniquely positioned for **High-Security, Low-Connectivity, or Private En
 * **Maritime & Industrial Sites:** Internal team voice communications and document routing on remote marine vessels, mining tunnels, or offshore infrastructure hubs.
 ## Contact
 Email:  rtechtrainingcenter@gmail.com
+## Author
+Ronel Tchoulayeu 
+C++ QT Developer/ Embedded Systems Engineer
+
 ## Download
 Download the  trial version here: 
 - Windows  https://drive.google.com/file/d/1X1PsoyURKQZ8KRt8rnlsKjNW5G-a7tXc/view?usp=sharing
