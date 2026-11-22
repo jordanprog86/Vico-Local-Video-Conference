@@ -47,7 +47,7 @@ Vico is uniquely positioned for **High-Security, Low-Connectivity, or Private En
 ## Contact
 Email:  rtechtrainingcenter@gmail.com
 ## Author
-Ronel Tchoulayeu 
+Ronel Tchoulayeu , 
 C++ QT Developer/ Embedded Systems Engineer
 
 ## Download
