@@ -47,8 +47,9 @@ Vico is uniquely positioned for **High-Security, Low-Connectivity, or Private En
 ## Contact
 Email:  rtechtrainingcenter@gmail.com
 ## Download
-Download the  trial version here: https://drive.google.com/file/d/1X1PsoyURKQZ8KRt8rnlsKjNW5G-a7tXc/view?usp=sharing
-- Windows only
+Download the  trial version here: 
+- Windows  https://drive.google.com/file/d/1X1PsoyURKQZ8KRt8rnlsKjNW5G-a7tXc/view?usp=sharing
+- Linux/Ubuntu  https://drive.google.com/file/d/18AJNQXvq-UuVyUBS48T06nW0Vqu8LRbq/view?usp=sharing
 - If you want the full version, contact us per email.
 
 License: Proprietary / Commercial Close-Source
